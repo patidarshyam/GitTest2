@@ -1,0 +1,2 @@
+//com.springsource.sts.config.flow.coordinates\:http\://www.springframework.org/schema/batch\:/spring-batch-tasklet/src/main/resources/batch-task.xml=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<graph>\r\n<element clazz\="JobModelElement" type\="job">\r\n<structure end\="1337" endstart\="1331" start\="1177" startend\="1250"/>\r\n<bounds height\="118" width\="117" x\="15" y\="17"/>\r\n</element>\r\n</graph>
+eclipse.preferences.version=1
